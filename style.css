@@ -1,0 +1,38 @@
+body {
+    background-color: #FEFCF3;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    border: 5px solid #DBA39A;
+    width: 50%;
+    height: 35vh;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.quote-box {
+    margin-top: 2rem;
+    background-color: #F5EBE0;
+    width: 80%;
+    height: 30%;
+    text-align: center;
+    border-radius: 20px;
+    color: #DBA39A;
+    font-size: 2rem;
+    padding: 2rem;
+}
+
+button {
+    margin-top: 3rem;
+    background-color: #F0DBDB;
+    border: none;
+    color: #DBA39A;
+    padding: 0.8rem;
+    border-radius: 10px;
+    font-size: 2rem;
+}
